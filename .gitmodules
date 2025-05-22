@@ -1,0 +1,3 @@
+[submodule "lib_bluray/src/main/cpp/libbluray-cmake"]
+	path = lib_bluray/src/main/cpp/libbluray-cmake
+	url = https://github.com/peerless2012/libbluray-cmake.git
